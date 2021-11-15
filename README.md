@@ -1,5 +1,5 @@
 # Bookshop
-Here's some expected features for an online bookshop.
+Here are some expected features for an online bookshop.
 ### Business requirements
 1. All products can be seen even by unregistered users.
 2. Implement a sorting/filtering system for products.
