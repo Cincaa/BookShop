@@ -8,7 +8,7 @@ Here are some expected features for an online bookshop.
 4. There are 2 roles, a simple user and an admin with special privileges.
 5. An authenticated user can change profile information.
 6. Admins can add new books.
-7. Admins can delete any of the existing ones.
+7. Admins can delete or update any of the existing ones.
 8. Registered users can place an order and see some details about it.
 9. Admins can see all orders.
 10. Admins can cancel or update an order. 
